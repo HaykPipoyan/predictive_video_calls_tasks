@@ -1,9 +1,0 @@
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/Hello_World_Program.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/edit_cache.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/rebuild_cache.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/list_install_components.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/install.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/install/local.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/install/strip.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/Hello_World_Program_autogen_timestamp_deps.dir
-/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/CMakeFiles/Hello_World_Program_autogen.dir
