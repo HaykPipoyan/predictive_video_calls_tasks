@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1a979004c20f43aa2f48.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Hello_World_Program",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Hello_World_Program::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hello_World_Program-Debug-44137774e4c9f2c6c593.json",
+					"name" : "Hello_World_Program",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hello_World_Program_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hello_World_Program_autogen-Debug-f0b40fb2a50a26efb0d3.json",
+					"name" : "Hello_World_Program_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hello_World_Program_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hello_World_Program_autogen_timestamp_deps-Debug-75106697d4d54d430125.json",
+					"name" : "Hello_World_Program_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug",
+		"source" : "/Users/haykpipoyan/Desktop/predictive_video_calls_tasks/Hello_World_Program"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,2 @@
+CMakeFiles/Hello_World_Program.dir/Hello_World_Program_autogen/mocs_compilation.cpp.o: \
+  /Users/haykpipoyan/Desktop/predictive_video_calls_tasks/build-Hello_World_Program-Qt_6_6_1_macos-Debug/Hello_World_Program_autogen/mocs_compilation.cpp
