@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#changeTextBtn {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#textParagraph {
+    margin-top: 20px;
+}
