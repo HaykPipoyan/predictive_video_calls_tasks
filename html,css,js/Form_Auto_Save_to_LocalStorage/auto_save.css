@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: 100px;
+}

@@ -1,0 +1,22 @@
+.form-field {
+    margin-bottom: 20px;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.8em;
+}
+
+input[type="text"],
+input[type="email"] {
+    margin-top: 5px;
+    display: block;
+    padding: 8px;
+    width: 100%;
+}
+
+button[type="submit"] {
+    padding: 10px 15px;
+    font-size: 1em;
+    cursor: pointer;
+}

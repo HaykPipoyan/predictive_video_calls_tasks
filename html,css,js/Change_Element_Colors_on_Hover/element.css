@@ -1,0 +1,10 @@
+.item {
+    color: #000; /* Default color */
+    list-style: none;
+    cursor: pointer;
+  }
+  
+  .item:hover {
+    color: #f00; /* Color on hover */
+  }
+  

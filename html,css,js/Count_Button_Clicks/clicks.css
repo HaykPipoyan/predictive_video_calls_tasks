@@ -1,0 +1,10 @@
+#click-me-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#display-area {
+    margin-top: 20px;
+    font-size: 20px;
+}
